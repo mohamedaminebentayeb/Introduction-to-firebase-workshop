@@ -1,4 +1,4 @@
-# Introduction-to-firebasesteps :
+# Introduction-to-firebase :
 #Steps :  
    Clone this repository   
    start new FIREBASE project     
