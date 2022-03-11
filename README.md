@@ -1,8 +1,9 @@
 # Introduction-to-firebasesteps :
-Steps : \n
-  Clone this repository \n
-  start new FIREBASE project 
-  connect to your project using this commande : 
-  dart pub global activate flutterfire_cli \n
-  firebase login \n
-  flutterfire configure \n
+#Steps :
+#  Clone this repository 
+#  start new FIREBASE project 
+#  connect to your project using this commande :
+#  dart pub global activate flutterfire_cli 
+#  npm install -g firebase-tools
+#  firebase login 
+#  flutterfire configure 
